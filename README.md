@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 0x18. C - Stacks, Queues - LIFO, FIFO
   <h4 class="task">
     0. push, pall
@@ -779,3 +780,6 @@ julien@ubuntu:~/brainfuck$
 49
 julien@ubuntu:~/brainfuck$ 
 </code></pre>
+=======
+# monty
+>>>>>>> 21ac3ebcb25384c5a80a8a4ad6fdb10b1d8a95ef
